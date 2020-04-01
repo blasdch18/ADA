@@ -1,0 +1,16 @@
+// Coloring ..
+graph {
+	"0[color=\"blue\"]"
+	"1[color=\"red\"]"
+	"2[color=\"blue\"]"
+	"3[color=\"red\"]"
+	"4[color=\"green\"]"
+	"5[color=\"green\"]"
+	0 -- 1
+	0 -- 4
+	1 -- 2
+	1 -- 4
+	2 -- 3
+	3 -- 4
+	3 -- 5
+}

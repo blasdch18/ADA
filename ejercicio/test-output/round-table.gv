@@ -1,0 +1,9 @@
+// Coloring ..
+digraph {
+	"0[color=\"blue\"]"
+	"1[color=\"red\"]"
+	"2[color=\"blue\"]"
+	"3[color=\"red\"]"
+	"4[color=\"green\"]"
+	"5[color=\"green\"]"
+}
